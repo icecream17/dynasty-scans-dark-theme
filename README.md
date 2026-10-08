@@ -1,6 +1,11 @@
 # Dynasty Scans Dark Theme
 Simple dark Dynasty Reader UserCSS style, feel free to issue or ask me anything.
 
+> [!NOTE]
+> This is a fork of https://github.com/ikorobus/dynasty-scans-dark-theme with some edits by me.
+>
+> The version of the fork will be `0.4.n` where `n = 2 + number of versions I made`.
+
 ### Installation:
 To use this you need the Stylus extension for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/en-US/android/addon/styl-us/) or [Opera](https://addons.opera.com/es/extensions/details/stylus/), click the badge below, accept the instalation on the left side of the tab it will open and you're good to go.
 There's just a couple of lines so if you want to edit any color locally, it should be somewhat navigable.
