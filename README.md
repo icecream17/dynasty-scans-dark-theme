@@ -5,6 +5,10 @@ Simple dark Dynasty Reader UserCSS style, feel free to issue or ask me anything.
 > This is a fork of https://github.com/ikorobus/dynasty-scans-dark-theme with some edits by me.
 >
 > The version of the fork will be `0.4.n` where `n = 2 + number of versions I made`.
+>
+> [![Install](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/icecream17/dynasty-scans-dark-theme/main/dsdt.user.css)
+>
+> Below is the README for the original version.
 
 ### Installation:
 To use this you need the Stylus extension for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/en-US/android/addon/styl-us/) or [Opera](https://addons.opera.com/es/extensions/details/stylus/), click the badge below, accept the instalation on the left side of the tab it will open and you're good to go.
